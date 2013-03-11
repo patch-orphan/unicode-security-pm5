@@ -1,0 +1,4 @@
+Unicode::Security is a Perl 5 module implementing detection mechanisms from
+Unicode Technical Standard #39: Unicode Security Mechanisms.
+
+http://www.unicode.org/reports/tr36/
