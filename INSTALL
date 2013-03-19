@@ -1,0 +1,16 @@
+Unicode::Security Installation
+
+# install via cpanminus
+cpanm Unicode::Security
+
+# install via CPAN shell
+cpan Unicode::Security
+
+# install via ActivePerl
+ppm install Unicode::Security
+
+# install manually
+perl Build.PL
+./Build
+./Build test
+./Build install

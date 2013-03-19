@@ -1,4 +1,34 @@
-Unicode::Security is a Perl 5 module implementing detection mechanisms from
-Unicode Technical Standard #39: Unicode Security Mechanisms.
+NAME
+    Unicode::Security - ...
 
-http://www.unicode.org/reports/tr36/
+VERSION
+    This document describes Unicode::Security version 0.00_1.
+
+SYNOPSIS
+        use Unicode::Security;
+
+        ...
+
+DESCRIPTION
+    Unicode::Security is a Perl 5 module implementing detection mechanisms
+    from Unicode Technical Standard #39: Unicode Security Mechanisms.
+
+SEE ALSO
+    *   Unicode Technical Standard #39: Unicode Security Mechanisms -
+        <http://www.unicode.org/reports/tr39/>
+
+    *   Unicode Technical Report #36: Unicode Security Considerations -
+        <http://www.unicode.org/reports/tr36/>
+
+    *   Unicode FAQ: Security Issues -
+        <http://www.unicode.org/faq/security.html>
+
+AUTHOR
+    Nick Patch <patch@cpan.org>
+
+COPYRIGHT AND LICENSE
+    © 2013 Nick Patch
+
+    This library is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
+
